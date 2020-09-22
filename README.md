@@ -3,8 +3,8 @@ API Java SDK
 
 ### 使用SDK
 ```java
-// spring boot, inject geoService
-GeoResult result = this.geoService.geo("北京市朝阳区阜通东大街6号");
+// spring boot, inject regionService
+MobileCityResult result = this.regionService.getMobileCity("13429667914");
 ```
 
 ### maven
