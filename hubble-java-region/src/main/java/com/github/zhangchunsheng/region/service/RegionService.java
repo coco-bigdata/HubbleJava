@@ -10,7 +10,7 @@ import me.zhangchunsheng.hubble.common.service.JuheService;
  * 手机归属地API
  * Created by Chunsheng Zhang on 2020/9/22.
  *
- * ttp://apis.juhe.cn/mobile/get?phone=13429667914&key=
+ * http://apis.juhe.cn/mobile/get?phone=13429667914&key=6d19d637c5b0adb4cccdd04ab5e7b5d2
  *
  * </pre>
  *
