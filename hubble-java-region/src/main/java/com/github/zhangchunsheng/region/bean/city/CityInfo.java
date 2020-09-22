@@ -842,11 +842,11 @@ public class CityInfo {
     }
 
     public static String getCityShort(String cityName) {
-        cityName = com.ridegroup.yop.bean.city.CityInfo.getCityName(cityName);
-        if(com.ridegroup.yop.bean.city.CityInfo.CITY_MAP.containsKey(cityName)) {
-            return com.ridegroup.yop.bean.city.CityInfo.CITY_MAP.get(cityName);
+        cityName = CityInfo.getCityName(cityName);
+        if(CityInfo.CITY_MAP.containsKey(cityName)) {
+            return CityInfo.CITY_MAP.get(cityName);
         } else {
-            return com.ridegroup.yop.bean.city.CityInfo.SHORT_BJ;
+            return CityInfo.SHORT_BJ;
         }
     }
 }
