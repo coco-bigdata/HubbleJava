@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.zhangchunsheng.spring.starter.hubblejava.region.config.JuheRegionAutoConfiguration
