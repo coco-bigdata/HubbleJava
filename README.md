@@ -13,7 +13,7 @@ MobileCityResult result = this.regionService.getMobileCity("13429667914");
 <dependency>
     <groupId>com.github.zhangchunsheng</groupId>
     <artifactId>hubble-java-region</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
